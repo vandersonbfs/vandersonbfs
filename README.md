@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandersonbfs&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonbfs&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonbfs&hide_progress=true&theme=dracula)
 
 
 
